@@ -1,0 +1,31 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background-color: #f4f1de;
+  color: #1d3557;
+}
+
+.navbar {
+  background-color: #1d3557;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #ffffff !important;
+}
+
+.nav-link:hover {
+  color: #a8dadc !important;
+}
+
+p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+h1 {
+    color:blue;
+    text-align:center;
+}
+.texto-secundario {
+    color:green;
+    margin-left: 20px;
+}
